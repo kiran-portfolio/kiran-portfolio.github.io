@@ -95,12 +95,24 @@ color: #fff;}
 	text-align: center;
 	
  }
+ .mywork{
+ 
+ text-align: center;
+ padding: 15px 0px!important;
+ font-size: 25px;
+ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;}
 
 .work{
 background-image: url('images/silk-bg.jpg');
  background-repeat: repeat repeat;
 /* height: 750px;*/
- padding: 50px 0px;
+ padding: 30px 0px;
+}
+.contacttext{
+font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+padding: 5px 30px;
+color: white;
+font-size: 15px;
 }
 .work_image{
 /*height: 300px;
@@ -138,8 +150,16 @@ display: block !important;}
  color: white;
  text-align: center;
  padding: 8px 0px;
+ font-size: 25px;
+ 
+font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
 }
-
+.contact{
+ background-image:url('images/nav-background.gif');
+	background-repeat: repeat;
+		}
+		
+		
 /* Custom, iPhone Retina */ 
  @media only screen and (min-width : 320px) {
 	.profilepicture{
@@ -180,7 +200,7 @@ display: block !important;}
 		height: 270px;
 		width: 270px;
 	}.work{
-		height: 1400px;
+		height: 1300px;
 	}
 	.contact{
 	height: 150px;}
@@ -244,7 +264,7 @@ display: block !important;}
 	.skills{
 	height: 270px;}
 	.work{
-	 height: 750px;
+	 height: 850px;
 	}
 	.work_image{
 		height: 300px;
