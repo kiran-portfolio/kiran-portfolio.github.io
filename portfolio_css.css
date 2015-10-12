@@ -99,12 +99,12 @@ color: #fff;}
 .work{
 background-image: url('images/silk-bg.jpg');
  background-repeat: repeat repeat;
- height: 750px;
+/* height: 750px;*/
  padding: 50px 0;
 }
 .work_image{
-height: 300px;
-width: 300px;
+/*height: 300px;
+width: 300px;*/
 margin: 15px;
 border: 1px solid #5b5955;
 }
@@ -173,8 +173,16 @@ display: block !important;}
 	}
 	.skillname{
 	font-size: 0.5em;
-	}
+	}	
 	.skills{
+	height: 150px;}
+	.work_image{
+		height: 270px;
+		width: 270px;
+	}.work{
+		height: 1400px;
+	}
+	.contact{
 	height: 150px;}
 	}
 
@@ -235,5 +243,15 @@ display: block !important;}
 	}
 	.skills{
 	height: 270px;}
+	.work{
+	 height: 750px;
+	}
+	.work_image{
+		height: 300px;
+		width: 300px;
+	}
+	.contact{
+	height: 270px;
+	}
 	}
 

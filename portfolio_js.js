@@ -9,6 +9,16 @@ $(document).ready(function(){
 			'scrollTop': $("#toscrollinfo").position().top
 		});
 });
+	$("#skilldiv").click(function(){
+		$('html,body').animate({
+			'scrollTop': $("#toscrollskills").position().top
+		});
+});
+	$("#contactdiv").click(function(){
+		$('html,body').animate({
+			'scrollTop': $("#toscrollcontact").position().top
+		});
+});
 	$('.carousel').carousel({
         interval: 5000
     });
