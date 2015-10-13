@@ -112,7 +112,7 @@ background-image: url('images/silk-bg.jpg');
 font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
 padding: 5px 30px;
 color: white;
-font-size: 15px;
+font-size: 10px;
 }
 .work_image{
 /*height: 300px;
@@ -203,7 +203,7 @@ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif
 		height: 1300px;
 	}
 	.contact{
-	height: 150px;}
+	height: 250px;}
 	}
 
     /* Extra Small Devices, Phones */ 
