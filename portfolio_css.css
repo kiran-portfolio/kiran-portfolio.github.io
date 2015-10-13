@@ -40,6 +40,7 @@ body {
  
  
  }
+ 
  .icons{
     background-image:url('images/nav-background.gif');
 	background-repeat: repeat;
@@ -195,7 +196,20 @@ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif
 	font-size: 0.5em;
 	}	
 	.skills{
-	height: 150px;}
+      display: none;
+	  }
+	  .skillsmobile{
+		display: block;
+		background-image: url('images/nav-background.gif');
+		background-repeat: repeat repeat;
+	}
+	  .skillnamemobile{
+		height: 30px;
+		margin: 5px auto;
+		color: white;
+		border: 2px solid white;
+		text-align: center;
+	  }
 	.work_image{
 		height: 270px;
 		width: 270px;
@@ -264,8 +278,12 @@ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif
 	.skillname{
 	font-size: 1.5em;
 	}
+	.skillsmobile{
+		display: none;
+	}
 	.skills{
-	height: 270px;}
+	height: 270px;
+	display: block;}
 	.work{
 	 height: 850px;
 	}
