@@ -1,5 +1,6 @@
 body {
-    background-color: #262523!important;
+   background-color: #262523!important;
+   
 	
 }
 .firstdiv{
@@ -12,7 +13,8 @@ body {
 
  background-image: url('images/silk-bg.jpg');
  
- background-repeat: repeat-x;
+ 
+ /*background-repeat: repeat-x;
  position: relative;
 
  /*height: 200%;*/
@@ -102,6 +104,13 @@ color: #fff;}
  padding: 15px 0px!important;
  font-size: 25px;
  font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;}
+ .aboutmetext{
+	font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+	font-style: italic;
+	font-size: 18px;
+	text-align: justify;
+ 
+ }
 
 .work{
 background-image: url('images/silk-bg.jpg');
