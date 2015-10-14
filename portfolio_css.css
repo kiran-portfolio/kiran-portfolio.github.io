@@ -225,6 +225,9 @@ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif
 	}.work{
 		height: 1300px;
 	}
+	.info{
+		height: 315px;
+	}
 	.contact{
 	height: 400px;}
 	.contacttext{
@@ -278,6 +281,9 @@ font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif
 	}
 	.icons{
 		height: 120px;
+	}
+	.info{
+		height: 285px;
 	}
 	.roundedimage{
 		height: 160px;
