@@ -85,7 +85,7 @@ font-weight: bold;
 letter-spacing: 2px;
 color: #fff;}
 .info{
-  height: 285px;
+  /*height: 285px;*/
   background-image:url('images/silk-bg.jpg');
    background-repeat: repeat repeat;
  }

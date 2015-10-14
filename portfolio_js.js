@@ -14,6 +14,11 @@ $(document).ready(function(){
 			'scrollTop': $("#toscrollskills").position().top
 		});
 });
+	$("#skilldiv").click(function(){
+		$('html,body').animate({
+			'scrollTop': $("#toscrollskillsmobile").position().top
+		});
+});
 	$("#contactdiv").click(function(){
 		$('html,body').animate({
 			'scrollTop': $("#toscrollcontact").position().top
